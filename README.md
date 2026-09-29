@@ -22,7 +22,7 @@ Multi-agent writing pipeline. Nine specialist agents (strategist, writer, six pa
 ## Elsewhere
 
 - [LinkedIn](https://linkedin.com/in/carlosgraciasola)
-- [CV (PDF)](https://github.com/cgracia/cgracia/raw/main/cv.pdf)
+- [CV (PDF)](https://github.com/cgracia/cgracia/raw/master/cv.pdf)
 
 ## What I'm thinking about
 
